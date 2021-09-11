@@ -14,7 +14,7 @@ Welcome to deployment 5, for this deployment you will need to follow the directi
 👉Link to deployment instructions: [here](https://github.com/kura-labs-org/DEPLOY6_AWS/blob/main/Deployment%235.pdf)  
 
 
-<h1> Documentation<h1>
+<h1>Documentation</h1>
   Changed AZ to Oregon us-west-2
 VPC Create:
 Name: Production-ENV-test
