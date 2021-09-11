@@ -11,4 +11,4 @@ Welcome to deployment 5, for this deployment you will need to follow the directi
 - [x]Take a screenshot of you logged into your Jenkins master and the agent connecting to the Jenkins master(also include the Url in the screenshot).
 - [x]One screenshot is required, so you have the option of choosing how you would like to submit it. 
 
-👉Link to deployment instructions: [here](https://github.com/kura-labs-org/DEPLOY4_FLASK_APP/blob/main/Deployment%204.pdf)  
+👉Link to deployment instructions: [here](Deployment#5.pdf)  
