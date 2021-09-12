@@ -66,7 +66,7 @@ change subnet to public
 change security group to Any Access
 
 bootstrap:
-'''
+```
 #!/bin/bash
 sudo amazon-linux-extras install java-openjdk11
 sudo amazon-linux-extras install epel
@@ -77,7 +77,7 @@ sudo yum upgrade
 sudo yum install epel-release java-11-openjdk-devel
 sudo yum install jenkins
 sudo systemctl start jenkins
-'''
+```
 Set up jenkins.
 Set up the target group
 Set up load balancer
