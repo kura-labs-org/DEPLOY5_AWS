@@ -12,3 +12,5 @@ Welcome to deployment 5, for this deployment you will need to follow the directi
 - [x]One screenshot is required, so you have the option of choosing how you would like to submit it. 
 
 👉Link to deployment instructions: [here](https://github.com/kura-labs-org/DEPLOY6_AWS/blob/main/Deployment%235.pdf)  
+
+Also, screenshots are in the repo.
