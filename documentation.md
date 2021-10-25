@@ -1,6 +1,7 @@
 # Not Finished. I'm Gradually updating this documentation as I learn more about this project. 
 # Deploymen 5 Documentation
-
+![deployment5-top](https://user-images.githubusercontent.com/60336145/138764063-bef5d287-7f80-49fd-852b-04eab23fa59d.png)
+[Click here to see on draw.io](https://drive.google.com/file/d/1TwWnPScc5XM97tWBk79VIic0beveqgln/view?usp=sharing)
 ## step 1. Create a Virtual Private Network (VPC) on AWS. Please visit https://docs.aws.amazon.com/directoryservice/latest/admin-guide/gsg_create_vpc.html to learn how.
 ## step 2. Create [0] Subnets within our VPC I'm Using [1] class C IP Addresses [2] RFC 1918 (reserved private internet addresses) Range (192.169.0.0 to 192.168.255.254) with a CIDR block of [3]/18 which allows us a total of 16,384 addresses for our network. Divide your Network into 4 subnets 2 private and 2 public. we will put distibute them across two [4]AZ's or Availavility zones 
 
