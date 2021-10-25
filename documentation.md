@@ -23,3 +23,4 @@
 ## step 9. Create a load balancer within the VPC that we just created and add the security group of the public EC2 to allow it to access the private EC2 and fordward the private's 8080 port to its own 80 port and then we are able to access any application running on the private EC2 in this case jenkins.
 ## step 10. Use the load balance's endpoint to access your jenkins application running on the private EC2.
 ##
+
