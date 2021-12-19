@@ -1,8 +1,8 @@
 # DEPLOY5_AWS
 <h1 align=center>Deployment 5 of AWS Infrastructure</h1>    
 
-(https://user-images.githubusercontent.com/60821705/146663273-280093e1-3793-4931-9c1f-ffc71f5b1225.PNG)
 
+![week5](https://user-images.githubusercontent.com/60821705/146663292-4aa6c9d1-ef09-487e-9a53-15e4e77c4f63.PNG)
 
 ***Requirements:*** 
 - [x]Create your network topology and submit the file to this repository.
