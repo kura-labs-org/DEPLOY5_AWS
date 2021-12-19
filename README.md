@@ -1,9 +1,8 @@
 # DEPLOY5_AWS
-<h1 align=center>Deployment 5</h1>
+<h1 align=center>Deployment 5 of AWS Infrastructure</h1>    
 
-Welcome to deployment 5, for this deployment you will need to follow the directions in the deployment5.pdf. Once you have build your secure Jenkins network, you will need to create a network topology of your redundant and secure Jenkins architecture.     
+(https://user-images.githubusercontent.com/60821705/146663273-280093e1-3793-4931-9c1f-ffc71f5b1225.PNG)
 
-- Be sure to include the following below in your pull request: 
 
 ***Requirements:*** 
 - [x]Create your network topology and submit the file to this repository.
